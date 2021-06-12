@@ -7,7 +7,7 @@ const API_KEY="3bf9c503195d17308d2b6b489d82a376";
      fetchComedyMovies: `/discover/movie?api_key=${API_KEY}&with_genres=35`,
      fetchHorrorMovies: `/discover/movie?api_key=${API_KEY}&with_genres=27`,
      fetchRomanceMovies: `/discover/movie?api_key=${API_KEY}&with_genres=10749`,
-     fetchDocumentaries:`/discover/movie?api_key=${API_KEY}&with_genres=998`,
+     fetchDocumentaries:`/discover/movie?api_key=${API_KEY}&with_genres=99`,
  }
 
  export default requests;
