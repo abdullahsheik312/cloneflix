@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloneflix/static/css/main.c01a7e4a.css",
+    "main.js": "/cloneflix/static/js/main.c8d1e807.js",
+    "static/js/496.0cdbd452.chunk.js": "/cloneflix/static/js/496.0cdbd452.chunk.js",
+    "index.html": "/cloneflix/index.html",
+    "main.c01a7e4a.css.map": "/cloneflix/static/css/main.c01a7e4a.css.map",
+    "main.c8d1e807.js.map": "/cloneflix/static/js/main.c8d1e807.js.map",
+    "496.0cdbd452.chunk.js.map": "/cloneflix/static/js/496.0cdbd452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c01a7e4a.css",
+    "static/js/main.c8d1e807.js"
+  ]
+}
